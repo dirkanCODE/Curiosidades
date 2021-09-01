@@ -1,3 +1,5 @@
+Permite ampliar y reducir pulsando sobre la zona deseada con el raton, con botón izquierdo y botón derecho respectivamente.
+
 Algunas capturas de la salida que produce el código:
 
 Por aquí dejo una variante con 2500 iteraciones para la sucesión en cada punto:

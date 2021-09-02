@@ -1,4 +1,4 @@
-// By: @dirkanSYN -> https://twitter.com/dirkanSYN
+// By: dirkan (@dirkanSYN) -> https://twitter.com/dirkanSYN
 
 #include <cstdlib>
 #include <stdio.h>

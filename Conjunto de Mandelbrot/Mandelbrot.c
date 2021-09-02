@@ -1,3 +1,5 @@
+// By: @dirkanSYN -> https://twitter.com/dirkanSYN
+
 #include <cstdlib>
 #include <stdio.h>
 #include <math.h>
